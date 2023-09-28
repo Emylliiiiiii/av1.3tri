@@ -11,3 +11,12 @@ img{
     height: 500px;
     margin: left 400px;
 }
+.cabecalho{
+     background-color: rgb(204, 205, 207);
+     display: flex;
+    }
+.listacabecalho{
+    display:flex;
+    margin-left: 760px;
+    margin-top: 100px;
+}
